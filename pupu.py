@@ -47,4 +47,4 @@ while (1):
     time = datetime.datetime.now()
     print(str(time) + "价格为" + str(price))
     # 间隔一段时间
-    sleep(3)
+    sleep(2)
